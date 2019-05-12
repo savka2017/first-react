@@ -2,7 +2,7 @@
   "name": "first-react",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://savka2017.github.io/first-react",
+  "homepage": "https://savka2017.github.io/first-react/styleguide",
   "dependencies": {
     "@babel/runtime": "^7.4.4",
     "gh-pages": "^2.0.1",

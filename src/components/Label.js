@@ -1,9 +1,14 @@
 import React from 'react';
+import './Label.css';
+
+/**
+ * The only true label.
+ */
 
 function Label() {
   return (
     <div>
-      <label>Home</label>
+      <label class="Label">Home</label>
     </div>
   );
 }
