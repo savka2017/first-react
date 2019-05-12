@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/first-react/build/main.aa957d69.js",
+    "runtime~main.js": "/first-react/build/bundle.feb19782.js",
+    "build/2.b637d698.js": "/first-react/build/2.b637d698.js",
+    "index.html": "/first-react/index.html",
+    "precache-manifest.c429b1e35e0dc3b5f7073561ac628546.js": "/first-react/precache-manifest.c429b1e35e0dc3b5f7073561ac628546.js",
+    "service-worker.js": "/first-react/service-worker.js"
+  }
+}
