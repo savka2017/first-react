@@ -4,6 +4,7 @@ import './Button.css';
 /**
  * The only true button.
  */
+
 function click() {
   alert('I am here');
 }
