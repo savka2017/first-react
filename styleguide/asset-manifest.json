@@ -1,10 +1,12 @@
 {
   "files": {
-    "main.js": "/first-react/build/main.aa957d69.js",
-    "runtime~main.js": "/first-react/build/bundle.feb19782.js",
-    "build/2.b637d698.js": "/first-react/build/2.b637d698.js",
-    "index.html": "/first-react/index.html",
-    "precache-manifest.c429b1e35e0dc3b5f7073561ac628546.js": "/first-react/precache-manifest.c429b1e35e0dc3b5f7073561ac628546.js",
-    "service-worker.js": "/first-react/service-worker.js"
+    "main.css": "/first-react/styleguide/static/css/main.57e1642b.chunk.css",
+    "main.js": "/first-react/styleguide/build/main.1de3b410.js",
+    "runtime~main.js": "/first-react/styleguide/build/bundle.feb19782.js",
+    "build/2.30f348c3.js": "/first-react/styleguide/build/2.30f348c3.js",
+    "index.html": "/first-react/styleguide/index.html",
+    "precache-manifest.901d2b0050660d95ff11ffdbf6af4581.js": "/first-react/styleguide/precache-manifest.901d2b0050660d95ff11ffdbf6af4581.js",
+    "service-worker.js": "/first-react/styleguide/service-worker.js",
+    "static/css/main.57e1642b.chunk.css.map": "/first-react/styleguide/static/css/main.57e1642b.chunk.css.map"
   }
 }

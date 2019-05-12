@@ -1,0 +1,1 @@
+{"version":3,"sources":["Button.css","Label.css"],"names":[],"mappings":"AAAA,QACI,sBAAuB,CACvB,UAAa,CACb,WACJ,CCJA,OACI,qBAAwB,CACxB,UAAW,CACX,YACJ","file":"main.57e1642b.chunk.css","sourcesContent":[".Button {\n    background-color: green;\n    color: yellow;\n    width: 100px;\n}",".Label {\n    background-color: yellow;\n    color: blue;\n    border: solid;\n}"]}
